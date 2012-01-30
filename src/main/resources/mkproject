@@ -1,0 +1,5 @@
+#!/bin/bash
+
+if [ $1 eq "test" ]; then
+  echo "Ceci est un test"
+fi
